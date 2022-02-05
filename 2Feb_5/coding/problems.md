@@ -13,4 +13,6 @@ https://www.lintcode.com/problem/609/description
 
 https://www.lintcode.com/problem/443
 
-one - https://www.lintcode.com/problem/607/description
+https://www.lintcode.com/problem/607/description - one 
+
+https://www.lintcode.com/problem/610/description - imp.
