@@ -10,3 +10,7 @@ https://www.lintcode.com/problem/587/description
 https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1
 
 https://www.lintcode.com/problem/609/description
+
+https://www.lintcode.com/problem/443
+
+one - https://www.lintcode.com/problem/607/description
